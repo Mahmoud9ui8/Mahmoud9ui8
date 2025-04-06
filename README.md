@@ -24,9 +24,9 @@ I'm a passionate developer with a strong interest in programming and technology.
 - Git & GitHub
 
 ## Languages
-Arabic (Native)
-English(A2)
-Turkish(A3)
+- Arabic (Native)
+- English(A2)
+- Turkish(A)
 
 <!--
 ## 📫 Contact Me
