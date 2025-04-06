@@ -23,8 +23,8 @@ I'm a passionate developer with a strong interest in programming and technology.
 - C++
 - Git & GitHub
 
-## 📫 Contact Me
 <!--
+## 📫 Contact Me
 
 - ✉️ Email: your-email@example.com
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/)
