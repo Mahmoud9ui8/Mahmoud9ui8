@@ -1,7 +1,8 @@
 # Hi 👋, I'm Mahmoud 
 <div align="center">
 **A self-taught programmer and born at very little age😜**
-<div align="center">
+</div>
+
   
 I'm a passionate developer with a strong interest in programming and technology. I’m focused on continuously improving my skills, especially in mobile app development and C#.
 
