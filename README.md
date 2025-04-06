@@ -7,6 +7,14 @@
 # Description
 
 I'm a passionate developer with a strong interest in programming and technology. I’m focused on continuously improving my skills, especially in mobile app development and C#.
+
+- Languages: C#, C++
+- Frameworks: .NET (Core & Framework), ASP.NET Core (MVC | Web API)
+- Frontend: HTML, CSS, JavaScript, Bootstrap, Razor Pages, jQuery, Ajax
+- Database: SQL Server, T-SQL, ADO.NET, EF Core
+- Design: SOLID Principles, Design Patterns (Repository, Unit of Work)
+- Tools: Git, GitHub, Postman, Swagger
+
 ## 💻 What I'm working on
 - 👨‍💻 Practicing C++ and solving problems on LeetCode.
 - 🧠 Learning and building real-world apps using Flutter and Dart.
