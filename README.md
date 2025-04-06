@@ -26,7 +26,7 @@ I'm a passionate developer with a strong interest in programming and technology.
 ## Languages
 - Arabic (Native)
 - English(A2)
-- Turkish(A)
+- Turkish(A2)
 
 <!--
 ## 📫 Contact Me
