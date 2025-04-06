@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmoud 
 <div align="center">
-  
+  <strong> A self-taught programmer and born at very little age😜   </strong><br>
 * A self-taught programmer and born at very little age😜 *
 </div>
 
