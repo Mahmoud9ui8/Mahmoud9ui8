@@ -29,7 +29,7 @@ I'm a passionate developer with a strong interest in programming and technology.
 - ✉️ Email: your-email@example.com
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/)
 - 🐦 Twitter: [Your Profile](https://twitter.com/)
-!-->
+--!>
 ---
 
 > "There is no impossible dream, only a plan that hasn't been written yet."
