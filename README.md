@@ -36,13 +36,13 @@ I'm a passionate developer with a strong interest in programming and technology.
 - English(A2)
 - Turkish(A2)
 
-<!--
+<
 ## 📫 Contact Me
 
-- ✉️ Email: your-email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/)
+- ✉️ Email: Player9ui8@example.com
+- 💼 LinkedIn: [Your Profile][(https://linkedin.com/](https://www.linkedin.com/in/mahmoud-malouhi-364b5b35a/))
 - 🐦 Twitter: [Your Profile](https://twitter.com/)
--->
+
 ---
 
 > "There is no impossible dream, only a plan that hasn't been written yet."
