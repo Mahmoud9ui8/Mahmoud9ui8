@@ -1,30 +1,33 @@
-# مرحبًا بك 👋
+# Welcome 👋
 
-أنا مطور شغوف بالتقنية والبرمجة، أسعى لتطوير مهاراتي في مجالات متعددة، خاصة الأمن السيبراني وتطوير تطبيقات الموبايل باستخدام Flutter.
+I'm a passionate developer with a strong interest in programming and technology. I’m focused on continuously improving my skills, especially in mobile app development and C#.
 
-## 💻 ما الذي أعمل عليه؟
-- 👨‍💻 أتعلم C++ وأحل تمارين على LeetCode.
-- 🔐 مهتم بمجال الأمن السيبراني وحاصل على شهادة CEH.
-- 📱 أطور تطبيق توصيل طعام باستخدام Flutter و Dart.
-- 🧠 أطمح لدمج الذكاء الاصطناعي في المجال الطبي مستقبلاً.
+## 💻 What I'm working on
+- 👨‍💻 Practicing C++ and solving problems on LeetCode.
+- 🧠 Learning and building real-world apps using Flutter and Dart.
+- 💪 Developing a food delivery app using Flutter.
+- 💻 Diving deep into C# and building desktop applications.
 
-## 🎯 أهدافي
-- أن أصبح قويًا في الذكاء الاصطناعي والبرمجة.
-- تطوير مشاريع حقيقية تفيد المجتمع.
-- التعلم المستمر وتحقيق دخل مادي من البرمجة.
+## 🎯 My Goals
+- Become highly skilled in Artificial Intelligence and software development.
+- Build impactful and useful applications.
+- Continuously learn and create income through programming.
 
-## 🛠️ المهارات
-- C++ / C#
+## 🛠️ Skills
+- C# (strong)
 - Flutter / Dart
-- Cybersecurity Basics
+- C++
 - Git & GitHub
 
-## 📫 تواصل معي
+## 📫 Contact Me
 - ✉️ Email: your-email@example.com
-- 💼 LinkedIn: [رابط حسابك](https://linkedin.com/)
-- 🐦 Twitter: [رابط حسابك](https://twitter.com/)
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/)
+- 🐦 Twitter: [Your Profile](https://twitter.com/)
 
 ---
+
+> "There is no impossible dream, only a plan that hasn't been written yet."
+
 
 > "لا يوجد حلم مستحيل، فقط خطة لم تُكتب بعد."
 
