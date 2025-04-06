@@ -1,12 +1,11 @@
 # Hi 👋, I'm Mahmoud 
 <div align="center">
-  <strong><h1></h1> A self-taught programmer and born at very little age😜 <h1></h1>  </strong><br>
- 
+  <strong><h1></h1> A self-taught programmer and born at very little age😜 <h4></h1>  </strong><br>
 </div>
 
-  
-I'm a passionate developer with a strong interest in programming and technology. I’m focused on continuously improving my skills, especially in mobile app development and C#.
+# Description
 
+I'm a passionate developer with a strong interest in programming and technology. I’m focused on continuously improving my skills, especially in mobile app development and C#.
 ## 💻 What I'm working on
 - 👨‍💻 Practicing C++ and solving problems on LeetCode.
 - 🧠 Learning and building real-world apps using Flutter and Dart.
