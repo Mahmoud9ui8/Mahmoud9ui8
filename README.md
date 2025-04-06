@@ -10,7 +10,6 @@ I'm a passionate developer with a strong interest in programming and technology.
 ## 💻 What I'm working on
 - 👨‍💻 Practicing C++ and solving problems on LeetCode.
 - 🧠 Learning and building real-world apps using Flutter and Dart.
-- 💪 Developing a food delivery app using Flutter.
 - 💻 Diving deep into C# and building desktop applications.
 
 ## 🎯 My Goals
