@@ -23,6 +23,11 @@ I'm a passionate developer with a strong interest in programming and technology.
 - C++
 - Git & GitHub
 
+## Languages
+Arabic (Native)
+English(A2)
+Turkish(A3)
+
 <!--
 ## 📫 Contact Me
 
